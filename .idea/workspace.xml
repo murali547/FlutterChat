@@ -33,9 +33,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6831da1c-e2b9-4d3b-9d2f-39aa22f47295" name="Default Changelist" comment="added code files for new flutter chat app">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6831da1c-e2b9-4d3b-9d2f-39aa22f47295" name="Default Changelist" comment="added code files for new flutter chat app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[murali_device]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -128,12 +127,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added code files for new flutter chat app" />
     <option name="LAST_COMMIT_MESSAGE" value="added code files for new flutter chat app" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2424" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608409489467">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2424" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.2560.1417/0.23.1680.949@1680.23.2560.1417" timestamp="1608409489467" />
     <state x="2518" y="308" key="CommitChangelistDialog2" timestamp="1606450923213">
       <screen x="1680" y="23" width="2560" height="1417" />
     </state>
