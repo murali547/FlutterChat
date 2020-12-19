@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/gaddamem/udemy/flutter/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/Flutter.h

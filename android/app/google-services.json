@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930625099034",
+    "firebase_url": "https://flash-chat-220df.firebaseio.com",
+    "project_id": "flash-chat-220df",
+    "storage_bucket": "flash-chat-220df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930625099034:android:81cdf3105d66b819dd88a3",
+        "android_client_info": {
+          "package_name": "co.murali.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930625099034-oroh7m70arnemu8jqm8doaqej72vosf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS2CxwoCqEzMh4WCujExk_ktqX3N2Y4xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930625099034-oroh7m70arnemu8jqm8doaqej72vosf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
